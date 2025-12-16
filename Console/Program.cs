@@ -9,8 +9,8 @@ using Azure;
 using OpenAI;
 
 
-string endpoint = "https://headphonessilva.openai.azure.com/";
-string apiKey = "DsLwe1RsboT05CsbWBI61Hof8eiUcIXmIlWIhGxGD4RMKV1rkbrqJQQJ99BLACYeBjFXJ3w3AAABACOGfxwt";
+string endpoint = "";
+string apiKey = "";
 string deploymentName = "gpt-4.1-mini";
 
 // Cria o agente que vai ser exposto como MCP tool
